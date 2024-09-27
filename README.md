@@ -9,20 +9,20 @@ You can check out my [Portfolio🔗](https://satish-tec.github.io/) for more det
 
 Feel free to explore my repositories and connect with me!
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satishprajapati3487@gmail.com)
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/satish132)
+- 📫 How to reach me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satishprajapati3487@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/satish132)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/satish132)
  [![X](https://img.shields.io/badge/X-black)](https://x.com/satishp132) 
  [![Skype](https://img.shields.io/badge/Skype-brightgreen)](https://join.skype.com/invite/WLbN90G1NGJO)
  [![Dev](https://img.shields.io/badge/Dev-black)](https://dev.to/satishp132)
 
 [![](https://visitcount.itsvg.in/api?id=Satishp132&icon=2&color=12)](https://visitcount.itsvg.in)
  
-
 - 🌱 I’m currently learning **Deep Learning, NLP.**
 
 - 👨‍💻 All of my projects are available at [satish-tec🔗](https://github.com/satish-tec)
-
- **satishprajapati3487@gmail.com**
 
 <h2 align="center"> </h2>
 
