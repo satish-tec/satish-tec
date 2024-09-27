@@ -1,7 +1,4 @@
-<!-- Banner Image -->
-![Banner Image](Black and White Simple Art Director LinkedIn Banner.png)
 
-<!-- If the image is hosted externally, you can use the full URL -->
 ![Banner Image](https://github.com/satish-tec/satish-tec/blob/bf3caf51aec920cd7a960c438fe4d61e5157df93/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
 
 
@@ -25,7 +22,7 @@ Feel free to explore my repositories and connect with me!
 
 - 📫 How to reach me **satishprajapati3487@gmail.com**
 
-- 📄 Know about my experiences [https://satishp132.github.io/satish.github.io/](https://satishp132.github.io/satish.github.io/)
+- 📄 Know about my experiences [https://satish-tec.github.io/](https://satish-tec.github.io/)
 
 <h2 align="center"> </h2>
 
