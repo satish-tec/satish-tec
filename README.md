@@ -1,4 +1,9 @@
-![image](https://github.com/user-attachments/assets/9b9700a4-4c15-4d5e-8218-d6464f9b2fd6)
+<!-- Banner Image -->
+![Banner Image](Black and White Simple Art Director LinkedIn Banner.png)
+
+<!-- If the image is hosted externally, you can use the full URL -->
+![Banner Image](https://example.com/path_to_banner_image.png)
+
 
 <h1 align="center">Hi 👋, I'm Satish Prajapati! </h1>
 I'm a passionate developer specializing in Artificial Intelligence and Data Science.
