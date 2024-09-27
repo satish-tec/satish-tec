@@ -34,7 +34,7 @@ Feel free to explore my repositories and connect with me!
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=satish-tec&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<div alignment='centre'>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-</div>
+
