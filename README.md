@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Satish Prajapati! </h1>
 I'm a passionate developer specializing in Artificial Intelligence and Data Science.
 
-You can check out my [Profile](https://satishp132.github.io/satish.github.io/) for more details about my projects and skills.
+You can check out my [Portfolio🔗](https://satish-tec.github.io/) for more details about my projects and skills.
 
 Feel free to explore my repositories and connect with me!
 
@@ -18,11 +18,11 @@ Feel free to explore my repositories and connect with me!
 
 - 🌱 I’m currently learning **Deep Learning, NLP.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Satishp132](https://github.com/Satishp132)
+- 👨‍💻 All of my projects are available at [Click🔗](https://github.com/satish-tec)
 
 - 📫 How to reach me **satishprajapati3487@gmail.com**
 
-- 📄 Know about my experiences [https://satish-tec.github.io/](https://satish-tec.github.io/)
+- 📄 Know about my experiences [Portfolio🔗](https://satish-tec.github.io/)
 
 <h2 align="center"> </h2>
 
