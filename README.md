@@ -2,7 +2,7 @@
 ![Banner Image](Black and White Simple Art Director LinkedIn Banner.png)
 
 <!-- If the image is hosted externally, you can use the full URL -->
-![Banner Image](https://example.com/path_to_banner_image.png)
+![Banner Image](https://github.com/satish-tec/satish-tec/blob/bf3caf51aec920cd7a960c438fe4d61e5157df93/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Satish Prajapati! </h1>
