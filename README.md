@@ -9,7 +9,8 @@ You can check out my [Portfolio🔗](https://satish-tec.github.io/) for more det
 
 Feel free to explore my repositories and connect with me!
 
-- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/satish132)
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satishprajapati3487@gmail.com)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/satish132)
  [![X](https://img.shields.io/badge/X-black)](https://x.com/satishp132) 
  [![Skype](https://img.shields.io/badge/Skype-brightgreen)](https://join.skype.com/invite/WLbN90G1NGJO)
  [![Dev](https://img.shields.io/badge/Dev-black)](https://dev.to/satishp132)
