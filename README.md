@@ -10,16 +10,11 @@ You can check out my [Portfolio🔗](https://satish-tec.github.io/) for more det
 Feel free to explore my repositories and connect with me!
 
 - 📫 How to reach me
-[![Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satishprajapati3487@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/satish132)
+[![Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satishprajapati3487@gmail.com)
 [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/satishp132)
 [![Skype Badge](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/WLbN90G1NGJO)
-[![Dev Badge](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/satish132)
- [![X](https://img.shields.io/badge/X-black)](https://x.com/satishp132) 
- [![Skype](https://img.shields.io/badge/Skype-brightgreen)]()
- [![Dev](https://img.shields.io/badge/Dev-black)](https://dev.to/satishp132)
+[![Dev Badge](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/satishp132)
 
 [![](https://visitcount.itsvg.in/api?id=Satishp132&icon=2&color=12)](https://visitcount.itsvg.in)
  
